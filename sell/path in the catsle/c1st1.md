@@ -12,10 +12,10 @@ grammar_cjkRuby: true
 
 石淳淳看了眼[地图](),恍然大悟，于是说……  
 
-> [“麻婆豆腐”](https://drinktoomuchsks.github.io/Fariy-Tale-Ending/goodking/goodguard/dmmj/tucao)  
+> [“麻婆豆腐”](https://drinktoomuchsks.github.io/Fariy-Tale-Ending/goodking/badguard/dmmj/tucao)  
 
-> [“宫保鸡丁”](https://drinktoomuchsks.github.io/Fariy-Tale-Ending/goodking/goodguard/dmmj/tucao)  
+> [“宫保鸡丁”](https://drinktoomuchsks.github.io/Fariy-Tale-Ending/goodking/badguard/dmmj/tucao)  
 
-> [“水煮肉片”](https://drinktoomuchsks.github.io/Fariy-Tale-Ending/goodking/goodguard/sell/path in the castle/c1st2)  
+> [“水煮肉片”](https://drinktoomuchsks.github.io/Fariy-Tale-Ending/goodking/badguard/path in the castle/c1st2)  
 
-> [“蒜泥白菜”](https://drinktoomuchsks.github.io/Fariy-Tale-Ending/goodking/goodguard/dmmj/tucao)  
+> [“蒜泥白菜”](https://drinktoomuchsks.github.io/Fariy-Tale-Ending/goodking/badguard/dmmj/tucao)

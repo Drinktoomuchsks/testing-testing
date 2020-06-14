@@ -19,6 +19,6 @@ grammar_cjkRuby: true
 
 石淳淳看了眼[地图]()选择了……  
 
-> [“中央大厅”](https://drinktoomuchsks.github.io/Fariy-Tale-Ending/goodking/goodguard/sell/path in the castle/C/B)  
+> [“中央大厅”](https://drinktoomuchsks.github.io/Fariy-Tale-Ending/goodking/badguard/path in the castle/C/B)  
 
-> [“城堡后大门”](https://drinktoomuchsks.github.io/Fariy-Tale-Ending/goodking/goodguard/sell/path in the castle/C/D)  
+> [“城堡后大门”](https://drinktoomuchsks.github.io/Fariy-Tale-Ending/goodking/badguard/path in the castle/C/D)  

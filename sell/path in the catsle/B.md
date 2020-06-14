@@ -21,4 +21,4 @@ grammar_cjkRuby: true
 可羊皮纸却变成一片空白了，石淳淳重新用小拇指敲羊皮纸，并说：  
 > “我庄严宣誓我不干好事”
 
-羊皮纸原本应出现地图，可却变成了[一行字……](https://drinktoomuchsks.github.io/fariy-tale-anding/paper%20GG)
+羊皮纸原本应出现地图，可却变成了[一行字……](https://drinktoomuchsks.github.io/fariy-tale-anding/paper%20GB)
